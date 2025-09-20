@@ -63,11 +63,11 @@ Together, they create a seamless system that connects clients with skilled provi
 git clone https://github.com/maxfrimpong/workforce-app-provider-reactnative-code-main.git
 
 
-<li>Open in Android Studio.</ul>
+<li>Open in Android Studio.</li>
 
-<li>Configure API keys (Google Maps, Firebase, etc.).</ul>
+<li>Configure API keys (Google Maps, Firebase, etc.).</li>
 
-<li>Run the app on your emulator or physical device.</ul>
+<li>Run the app on your emulator or physical device.</li>
 
 </ul>
 
