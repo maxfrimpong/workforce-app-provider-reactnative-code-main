@@ -58,8 +58,7 @@ Together, they create a seamless system that connects clients with skilled provi
 
 <h3>Installation & Setup</h3>
 <ul>
-<li>Clone the repository:</ul>
-<p>git clone https://github.com/maxfrimpong/workforce-app-provider-reactnative-code-main.git</p>
+<li>Clone the repository:</ul> <p>git clone https://github.com/maxfrimpong/workforce-app-provider-reactnative-code-main.git</p>
 <li>Open in Android Studio.</li>
 <li>Configure API keys (Google Maps, Firebase, etc.).</li>
 <li>Run the app on your emulator or physical device.</li>
