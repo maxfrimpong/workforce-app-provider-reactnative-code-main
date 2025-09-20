@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "899299302184",
+    "project_id": "workforce-provider",
+    "storage_bucket": "workforce-provider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899299302184:android:b5bf4e72fa2d6e8fb20e1d",
+        "android_client_info": {
+          "package_name": "com.workforceprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899299302184-dlhj6gegfph1c61rcmpdl54p2eb60fdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.workforceprovider",
+            "certificate_hash": "d8d5ebb0267cccf202f648efc124c838c4667f91"
+          }
+        },
+        {
+          "client_id": "899299302184-stskjh6lmvh9mvg87vagslhk5lpfhit5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.workforceprovider",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "899299302184-lvqlu04dt8hfc7de6pjo1imj42q6ovu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zaYqe0P7oUQienKVC13pLBfEqCNaqOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899299302184-lvqlu04dt8hfc7de6pjo1imj42q6ovu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

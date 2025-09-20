@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>899299302184-l5aegl23sh2i76h0tiqvjeh94ssq8g4t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.899299302184-l5aegl23sh2i76h0tiqvjeh94ssq8g4t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>899299302184-dlhj6gegfph1c61rcmpdl54p2eb60fdu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-feuz9rZCm2s1XjQdn3dUUyyA_L5GVRo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>899299302184</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.workforceProvider</string>
+	<key>PROJECT_ID</key>
+	<string>workforce-provider</string>
+	<key>STORAGE_BUCKET</key>
+	<string>workforce-provider.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:899299302184:ios:a253b42133c9e726b20e1d</string>
+</dict>
+</plist>

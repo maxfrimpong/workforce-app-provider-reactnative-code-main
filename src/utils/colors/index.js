@@ -1,0 +1,30 @@
+export const colors = {
+    primary: '#F47F04',
+    secondary: '#',
+    trenary: '',
+    white: '#ffffff',
+    black: '#000000',
+    red: 'red',
+    transparent: 'transparent',
+    itemBackground: '#F3F3F3',
+    inputBackground: '#F7F8F9',
+    border: '#D4D4D4',
+    circleBorder: '#C4C4C4',
+    inputBorder: '#D5DDE0',
+    brown: '#564A4A',
+    bgButton: '#eeeeee',
+    yellow: '#FCA919',
+    lightYellow: '#F5C972',
+
+    // Text Color
+    textBlack: '#3E4958',
+    textDarkBlack: '#1C0D33',
+    textLightBlack: '#4A4949',
+    textGrey: '#838080',
+    textLightGrey: '#97ADB6',
+    textRed: '#FF3109',
+    textBlue: '#185A7D',
+    textBrown: '#9F3A37',
+    textDarkBlue: '#1554AA',
+    textGreen: '#1D970A'
+}
